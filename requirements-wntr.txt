@@ -1,0 +1,2 @@
+-r requirements.txt
+wntr>=1.4,<2
